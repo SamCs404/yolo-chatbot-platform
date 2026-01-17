@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # YOLO (Chose the name because just wanted to make things similar with Yellow AI.)
 
 YOLO is a minimal chatbot platform where users can create AI agents with custom prompts and chat with them.
@@ -95,8 +95,3 @@ LLM calls are handled on the server, not in the browser.
 The codebase is structured so features can be extended easily.
 
 OpenRouter is used for development, but the design supports other LLM providers.
-
-=======
-# yolo-chatbot-platform
-YOLO is a minimal, multi-user chatbot platform that allows users to create AI agents (projects) with custom system prompts and interact with them through a chat interface.
->>>>>>> 080eaa66b4ed035d68ea78ebc558aece9c14357a
