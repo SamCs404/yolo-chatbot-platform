@@ -76,20 +76,14 @@ The frontend runs on:
 http://localhost:5173
 
 
-How to use it
+##How to use it
 Open the frontend in the browser
-
 Register a new account
-
 Log in
-
 Create a project with a system prompt
-
 Select the project and start chatting
 
-Notes
+##Notes
 LLM calls are handled on the server, not in the browser.
-
 The codebase is structured so features can be extended easily.
-
 OpenRouter is used for development, but the design supports other LLM providers.
