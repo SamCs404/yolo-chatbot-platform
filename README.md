@@ -33,11 +33,7 @@ The focus of this project is simplicity, clean structure, and correctness rather
 yolo-chatbot-platform/
 ├── backend/
 ├── frontend/
-├── README.md
-└── ARCHITECTURE.md
-
-yaml
-Copy code
+└── README.md
 
 ---
 
@@ -48,36 +44,38 @@ Copy code
 ```bash
 cd backend
 npm install
+```
 Create a .env file in the backend folder:
 
 env
-Copy code
+
 PORT=4000
 JWT_SECRET=your_secret_key
 OPENROUTER_API_KEY=your_openrouter_api_key
+
 Start the backend:
 
-bash
-Copy code
+```bash
+
 npx prisma generate
 npx prisma db push
 node src/server.js
-The backend runs on:
+```
 
-arduino
-Copy code
+The backend runs on:
 http://localhost:4000
+
 Frontend
-bash
-Copy code
+```bash
 cd frontend
 npm install
 npm run dev
-The frontend runs on:
+```
 
-arduino
-Copy code
+The frontend runs on:
 http://localhost:5173
+
+
 How to use it
 Open the frontend in the browser
 
