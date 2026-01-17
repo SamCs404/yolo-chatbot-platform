@@ -1,0 +1,21 @@
+.yolo-input {
+  width: 100%;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: none;
+  background: #111;
+  color: #FFD400;
+  font-size: 15px;
+  outline: none;
+  margin-bottom: 14px;
+  transition: all 0.25s ease;
+}
+
+.yolo-input::placeholder {
+  color: #777;
+}
+
+.yolo-input:focus {
+  background: #000;
+  box-shadow: 0 0 0 2px #FFD400;
+}
