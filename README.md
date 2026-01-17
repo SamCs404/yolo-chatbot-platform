@@ -1,5 +1,5 @@
 
-# YOLO (Chose the name because just wanted to make things similar with Yellow AI.)
+# YOLO (Chose the name because just wanted to make things similar with Yellow AI 😊.)
 
 YOLO is a minimal chatbot platform where users can create AI agents with custom prompts and chat with them.
 
